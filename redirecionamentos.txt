@@ -1,0 +1,21 @@
+href="https://10web-site.ai/91/open-sunbird-1/product-tag/shop-all/"> = shop_now.html
+
+https://10web-site.ai/91/open-sunbird-1/product-category/aves-de-capoeira/ = aves_de_capoeira.html
+
+https://10web-site.ai/91/open-sunbird-1/product-category/ave/
+= aves.html
+
+https://10web-site.ai/91/open-sunbird-1/product-category/animal/
+= animal.html
+
+https://10web-site.ai/91/open-sunbird-1/product/cavalo/
+= venda_cavalohtml
+
+https://10web-site.ai/91/open-sunbird-1/product/galo/
+= venda_de_galo.html
+
+https://10web-site.ai/91/open-sunbird-1/product/galinha/
+= venda_lalinha.html
+
+https://10web-site.ai/91/open-sunbird-1/product/ovelha/
+= venda_ovelha.hml
